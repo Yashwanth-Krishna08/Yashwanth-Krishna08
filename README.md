@@ -1,17 +1,64 @@
-# 💫 About Me:
-I am a Plus Two student with a strong passion for coding and problem-solving. I enjoy using programming as a tool to tackle challenges, think logically, and create efficient solutions. Over time, I have developed a deep interest in exploring how technology can be used to build meaningful and innovative projects.<br><br>Beyond general programming, I am especially fascinated by areas like animation and game development. The idea of bringing characters and virtual worlds to life through code excites me, and I am eager to learn the skills required to design interactive and visually engaging experiences. I am constantly motivated to improve my knowledge, experiment with new ideas, and push my creative and technical boundaries in the field of technology
+# Hi, I'm Yashwanth Krishna 👋
 
+I am a student currently awaiting my Plus Two results and pursuing admission to a top engineering college in Kerala through KEAM, with a focus on Computer Science Engineering (CSE) or Electronics and Communication Engineering (ECE).
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashwanthkrishna2808@gmail.com) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yashwanth-Krishna08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yashwanth-Krishna08&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth-Krishna08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I am passionate about technology, problem-solving, and building software that creates real-world impact. I enjoy learning by doing, which means I prefer developing projects and continuously improving them as I gain new knowledge.
 
+My current focus is on strengthening my C++ programming skills and understanding software development from a practical engineering perspective rather than just learning syntax.
+
+## 💻 Technologies & Skills
+
+- C++
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Git & GitHub
+- VS Code
+
+## 🎯 Areas of Interest
+
+- Software Development
+- C++ Programming
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Artificial Intelligence Tools
+- Game Development
+- Animation & VFX
+- Computer Graphics
+- Problem Solving
+- Building Efficient Software Solutions
+
+## 📚 Learning Philosophy
+
+I believe in:
+- Learning concepts deeply
+- Understanding how things work internally
+- Building projects to apply knowledge
+- Continuously improving existing projects
+- Solving real-world problems through technology
+
+Instead of simply completing tutorials, I prefer creating projects and evolving them as I learn new concepts and technologies.
+
+## 🌱 Current Goals
+
+### Short-Term
+- Secure admission to a top engineering college in Kerala
+- Master C++ and core computer science concepts
+- Build a strong portfolio of projects
+- Prepare for internships and placements
+
+### Long-Term
+- Become a skilled software engineer
+- Build innovative products and solutions
+- Explore AI, graphics, and game development
+- Start my own technology or game development company
+
+## ⚡ Fun Fact
+
+I'm always curious about new technologies, AI systems, and better ways to solve problems. I enjoy understanding not just *how* something works, but *why* it works.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yashwanth-Krishna08&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
