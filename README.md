@@ -1,45 +1,28 @@
-Hi, I'm Yashwanth Krishna 👋
+# Hi, I'm Yashwanth Krishna 👋
 
-I'm an aspiring Computer Science Engineering student from Kerala, India, passionate about software development, problem-solving, and building real-world projects.
+### Aspiring Software Engineer | C++ Developer | Problem Solver
 
-Currently, I am focused on:
+I'm a passionate learner preparing for a Computer Science Engineering degree and building a strong foundation in software development through hands-on projects.
 
-Learning C++ and Data Structures & Algorithms
-Exploring STL through practical mini-projects
-Building desktop applications with Qt & QML
-Learning web technologies (HTML, CSS, JavaScript, MySQL)
-Exploring Game Development, Animation, VFX, and AI tools
-What I Believe
+I enjoy learning new technologies, solving challenging problems, and transforming ideas into practical software.
 
-I learn best by building projects rather than only studying theory. My approach is to understand a concept deeply and then apply it to create something useful.
+## 🛠️ Technologies & Tools
 
-Some examples of projects I've built while learning include:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,qt,html,css,js,mysql,git,github,vscode" />
+</p>
 
-Bank Management System
-Expense Tracker (Qt/QML)
-Parking Management System
-Bracket Validator
-Mini STL-based learning projects
-Current Goals
-Master C++ and Data Structures & Algorithms
-Build strong software engineering fundamentals
-Create portfolio-worthy projects
-Secure a good placement after B.Tech
-Eventually build my own software products and game development studio
-Technologies I'm Learning
-C++
-STL
-Data Structures & Algorithms
-Qt & QML
-HTML
-CSS
-JavaScript
-MySQL
-Git & GitHub
-Philosophy
+## 🎯 Goals
 
-"Every concept I learn should be applied in a real project."
+- Master C++ and Data Structures & Algorithms
+- Build high-quality software projects
+- Strengthen software engineering fundamentals
+- Explore Game Development, Animation, VFX, and AI
+- Contribute to Open Source
+- Build impactful products in the future
 
-I enjoy taking challenging problems, breaking them down into smaller parts, and continuously improving my solutions.
+## 💡 Philosophy
 
-⭐ Feel free to explore my repositories and follow my learning journey!
+> "Learning is most effective when knowledge is applied through building."
+
+⭐ Thanks for visiting my profile!
