@@ -1,74 +1,49 @@
-# Hi, I'm Yashwanth Krishna 👋
+<h2 data-importer="text" align="left">Hi 👋! My name is Yashwanth Krishna and I'm a Aspiring Software developer, from India</h2>
 
-I am a student currently awaiting my Plus Two results and pursuing admission to a top engineering college in Kerala through KEAM, with a focus on Computer Science Engineering (CSE) or Electronics and Communication Engineering (ECE).
+###
 
-## 🚀 About Me
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-I am passionate about technology, problem-solving, and building software that creates real-world impact. I enjoy learning by doing, which means I prefer developing projects and continuously improving them as I gain new knowledge.
+###
 
-My current focus is on strengthening my C++ programming skills and understanding software development from a practical engineering perspective rather than just learning syntax.
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-## 💻 Technologies & Skills
+###
 
-- C++
-- HTML
-- CSS
-- JavaScript
-- MySQL
-- Git & GitHub
-- VS Code
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="C++ logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="MySql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-## 🎯 Areas of Interest
+###
 
-- Software Development
-- C++ Programming
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Artificial Intelligence Tools
-- Game Development
-- Animation & VFX
-- Computer Graphics
-- Problem Solving
-- Building Efficient Software Solutions
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-## 📚 Learning Philosophy
+###
 
-I believe in:
-- Learning concepts deeply
-- Understanding how things work internally
-- Building projects to apply knowledge
-- Continuously improving existing projects
-- Solving real-world problems through technology
+<br clear="both">
 
-Instead of simply completing tutorials, I prefer creating projects and evolving them as I learn new concepts and technologies.
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 
-## 🌱 Current Goals
-
-### Short-Term
-- Secure admission to a top engineering college in Kerala
-- Master C++ and core computer science concepts
-- Build a strong portfolio of projects
-- Prepare for internships and placements
-
-### Long-Term
-- Become a skilled software engineer
-- Build innovative products and solutions
-- Explore AI, graphics, and game development
-- Start my own technology or game development company
-
-## ⚡ Fun Fact
-
-I'm always curious about new technologies, AI systems, and better ways to solve problems. I enjoy understanding not just *how* something works, but *why* it works.
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yashwanth-Krishna08&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yashwanth-Krishna08&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Yashwanth-Krishna08&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
